@@ -1,3 +1,3 @@
 # Npm으로 설치
 
-소켓.io, 웹 지원 가능한 라이브러리 설치
+소켓.io, axios, zustand, react-native-web, react-dom 설치
